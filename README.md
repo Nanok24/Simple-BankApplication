@@ -29,6 +29,6 @@ The application will update the transaction history accordingly and it also disp
 
 I have also implemented a fake automatically log out system using a JS timer and you can also descendingly sort the transactions history.
 
-#### Credits
+### Credits
 
 This is a project that was made during my learning process of JS, following Jonas Schmedtmann's (https://codingheroes.io/) course for javaScript. Credits to him for this idea and the provided structure
